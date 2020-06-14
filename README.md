@@ -1,6 +1,9 @@
 # Dwave quantum computer animation
-An animation we created for our Jugend Forscht Project to show visitors how a dwave quantum computer looks
+A 3D Model and animation we created for our Jugend Forscht Project to show visitors how a dwave quantum computer looks
 
+![](https://raw.githubusercontent.com/Quantum-Computing-Jufo-2019/dwave-quantum-computer-3d-animation/master/img/overview.png)
+
+The Animation is available in the video folder and [youtube](https://www.youtube.com/watch?v=AcO8yO35ci8).
 # 3D Printing
 We seperated all parts of this model into 3d printing friendly STL Files.
 
