@@ -3,7 +3,7 @@ A 3D Model and animation we created for our Jugend Forscht Project to show visit
 
 ![](https://raw.githubusercontent.com/Quantum-Computing-Jufo-2019/dwave-quantum-computer-3d-animation/master/img/overview.png)
 
-The Animation is available in the video folder, [youtube](https://www.youtube.com/watch?v=AcO8yO35ci8) and [LBRY](https://lbry.tv/@jonathan.treffler:4/ISC-2019-The-Quantum-Boys:4)
+The Animation is available in the video folder, [youtube](https://www.youtube.com/watch?v=AcO8yO35ci8) and [LBRY](https://lbry.tv/@jonathan.treffler:4/DWAVE-Quantum-Computer-Animation:6)
 # 3D Printing
 We seperated all parts of this model into 3d printing friendly STL Files.
 
