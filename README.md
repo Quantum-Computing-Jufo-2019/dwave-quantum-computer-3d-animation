@@ -1,4 +1,7 @@
 # Dwave quantum computer animation
+
+## THIS IS A READ-ONLY CODEBERG.ORG MIRROR. To contribute visit [the repository on Codeberg](https://codeberg.org/Quantum-Computing-Jufo-2019/dwave-quantum-computer-3d-animation).
+
 A 3D Model and animation we created for our Jugend Forscht Project to show visitors how a dwave quantum computer looks
 
 ![](https://raw.githubusercontent.com/Quantum-Computing-Jufo-2019/dwave-quantum-computer-3d-animation/master/img/overview.png)
